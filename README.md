@@ -51,4 +51,4 @@ python benchmark.py
 
 ## 许可证
 
-MIT
+GNU AGPL-3.0v3 (GNU Affero General Public License v3.0)
